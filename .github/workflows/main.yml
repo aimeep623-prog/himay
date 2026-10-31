@@ -1,0 +1,62 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Steal a Egg Script</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #111;
+            color: white;
+            text-align: center;
+            padding: 40px;
+        }
+
+        .container {
+            background: #222;
+            padding: 30px;
+            border-radius: 15px;
+            max-width: 420px;
+            margin: auto;
+        }
+
+        .step {
+            background: #333;
+            padding: 15px;
+            margin: 12px 0;
+            border-radius: 8px;
+        }
+
+        button {
+            background: #00cc88;
+            color: black;
+            padding: 14px 25px;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        a {
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>🥚 Steal a Egg Script</h1>
+
+    <div class="step">Step 1: Open Link</div>
+    <div class="step">Step 2: Create an Account</div>
+    <div class="step">Step 3: Tap the Meme Coin Trading Simulator</div>
+    <div class="step">Step 4: Pay</div>
+
+    <a href="https://zlarp.com/r/aimee" target="_blank">
+        <button>OPEN LINK 🚀</button>
+    </a>
+</div>
+
+</body>
+</html>
